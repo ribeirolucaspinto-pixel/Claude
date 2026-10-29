@@ -47,12 +47,13 @@ Secrets em Settings → Secrets and variables → Actions:
 
 | Secret | O que é |
 |---|---|
-| `IG_TOKEN` | token de longa duração do Instagram (app Meta, Instagram API com login do Instagram) |
-| `IG_USER_ID` | id numérico da conta, aparece junto do token no painel do app |
+| `IG_TOKEN` | token do Instagram: de login do Instagram (`IG...`, renovado toda semana) ou token de página do login do Facebook (`EAA...`, não expira) |
+| `IG_USER_ID` | id numérico da conta do Instagram (no login do Facebook é o `instagram_business_account` da página) |
 | `GH_PAT` | token do GitHub com "Secrets: read and write" só neste repo, para renovar o `IG_TOKEN` |
 
-Permissões do app Meta: `instagram_business_basic`, `instagram_business_content_publish`,
-`instagram_business_manage_insights`. Como o app é só para a própria conta, não precisa de revisão da Meta.
+Permissões do app Meta. Login do Instagram: `instagram_business_basic`, `instagram_business_content_publish`,
+`instagram_business_manage_insights`. Login do Facebook: `instagram_basic`, `instagram_content_publish`,
+`instagram_manage_insights`, `pages_show_list`, `pages_read_engagement`, `business_management`. Como o app é só para a própria conta, não precisa de revisão da Meta.
 
 ## Testes
 

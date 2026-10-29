@@ -1,13 +1,15 @@
-// Cliente mínimo da Instagram API com login do Instagram (graph.instagram.com).
-// Permissões do app: instagram_business_basic, instagram_business_content_publish,
-// instagram_business_manage_insights.
+// Cliente mínimo da API de publicação do Instagram.
+// Aceita os dois tipos de token: login do Instagram (começa com "IG", graph.instagram.com)
+// ou login do Facebook (começa com "EAA", graph.facebook.com, token da página ligada ao Instagram).
 
 import { readFileSync, statSync } from 'node:fs';
 
 export const VERSAO = process.env.GRAPH_VERSION || 'v23.0';
 
+export const hostDoToken = (token = '') => (token.startsWith('EAA') ? 'graph.facebook.com' : 'graph.instagram.com');
+
 export function criarIg({ token, igUserId, fetchImpl = fetch, esperar = (ms) => new Promise((r) => setTimeout(r, ms)) }) {
-  const base = `https://graph.instagram.com/${VERSAO}`;
+  const base = `https://${hostDoToken(token)}/${VERSAO}`;
 
   async function chamar(caminho, { method = 'GET', params = {} } = {}) {
     const url = new URL(caminho.startsWith('http') ? caminho : `${base}/${caminho}`);

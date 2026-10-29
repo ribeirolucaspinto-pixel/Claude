@@ -1,0 +1,12 @@
+{
+  "name": "publicador-instagram",
+  "private": true,
+  "type": "module",
+  "description": "Publica a fila de posts no Instagram pela API oficial e guarda as métricas. Sem dependências.",
+  "scripts": {
+    "publicar": "node publicar.mjs",
+    "metricas": "node metricas.mjs",
+    "token": "node token.mjs",
+    "test": "node --test test/*.test.mjs"
+  }
+}

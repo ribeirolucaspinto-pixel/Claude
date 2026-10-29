@@ -4,6 +4,11 @@ import { writeFileSync } from 'node:fs';
 
 const atual = process.env.IG_TOKEN;
 if (!atual) { console.log('IG_TOKEN não configurado.'); process.exit(0); }
+if (atual.startsWith('EAA')) {
+  // Token de página gerado de um token de usuário de longa duração não expira.
+  console.log('token do login do Facebook (página): não precisa renovar.');
+  process.exit(0);
+}
 const url = new URL('https://graph.instagram.com/refresh_access_token');
 url.searchParams.set('grant_type', 'ig_refresh_token');
 url.searchParams.set('access_token', atual);

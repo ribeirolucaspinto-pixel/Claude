@@ -6,7 +6,7 @@ import { join } from 'node:path';
 
 const raiz = mkdtempSync(join(tmpdir(), 'publicador-'));
 process.env.RAIZ_REPO = raiz;
-const { criarIg } = await import('../ig.mjs');
+const { criarIg, hostDoToken } = await import('../ig.mjs');
 const { rodar } = await import('../publicar.mjs');
 const { enfileirar, normalizarQuando } = await import('../enfileirar.mjs');
 const { score, escrever } = await import('../metricas.mjs');
@@ -122,3 +122,8 @@ test('score e relatório', () => {
 });
 
 test('normalizarQuando', () => assert.equal(normalizarQuando('2026-10-30T19:00-03:00'), '2026-10-30T19:00:00-03:00'));
+
+test('escolhe o host pelo tipo de token', () => {
+  assert.equal(hostDoToken('EAAGxyz'), 'graph.facebook.com');
+  assert.equal(hostDoToken('IGQWxyz'), 'graph.instagram.com');
+});

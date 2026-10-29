@@ -1,0 +1,29 @@
+name: Renovar token do Instagram
+
+# O token vale 60 dias. Toda segunda ele é renovado e gravado de novo no secret IG_TOKEN.
+# Precisa do secret GH_PAT (token do GitHub com permissão "Secrets: read and write" neste repo).
+on:
+  schedule:
+    - cron: '0 11 * * 1'
+  workflow_dispatch:
+
+jobs:
+  renovar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Renovar
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+        run: node publicador/token.mjs "$RUNNER_TEMP/token.txt"
+      - name: Gravar no secret
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          [ -s "$RUNNER_TEMP/token.txt" ] || exit 0
+          if [ -z "$GH_TOKEN" ]; then echo "Falta o secret GH_PAT; o token novo não foi salvo." && exit 1; fi
+          gh secret set IG_TOKEN --repo "$GITHUB_REPOSITORY" < "$RUNNER_TEMP/token.txt"
+          rm -f "$RUNNER_TEMP/token.txt"

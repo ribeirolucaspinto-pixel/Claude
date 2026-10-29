@@ -1,11 +1,12 @@
 # Agenda do Instagram
 
-Atualizado em 29/10/2026, 18:41.
+Atualizado em 29/10/2026, 18:45.
 
 ## Na fila
 
 | Quando | Tipo | Aprovado | Status | Primeira linha |
 |---|---|---|---|---|
+| 29/10/2026, 18:45 | REELS | sim | erro: upload do vídeo: 400 {"debug_info":{"retriable":false,"type":"Processi | Ele perdeu a casa pro banco e prometeu derrubar tudo antes de entregar |
 
 ## Publicados recentes
 

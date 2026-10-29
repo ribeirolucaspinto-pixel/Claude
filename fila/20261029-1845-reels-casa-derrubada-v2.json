@@ -7,5 +7,8 @@
     "fila/midia/20261029-1845-reels-casa-derrubada-v2/01.mp4"
   ],
   "capa": "fila/midia/20261029-1845-reels-casa-derrubada-v2/capa.jpg",
-  "obs": "Reedição pedida pelo Lucas em 29/10: áudio sincronizado, cortes mais curtos, clipe maior, legenda mais baixa. Substitui DfF8s-qhe9T (mesma legenda e capa)."
+  "obs": "Reedição pedida pelo Lucas em 29/10: áudio sincronizado, cortes mais curtos, clipe maior, legenda mais baixa. Substitui DfF8s-qhe9T (mesma legenda e capa).",
+  "status": "erro",
+  "erro": "upload do vídeo: 400 {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}",
+  "tentativas": 1
 }

@@ -1,12 +1,9 @@
 {
   "quando": "2026-10-30T15:30:00-03:00",
   "tipo": "FEED",
-  "aprovado": true,
+  "aprovado": false,
   "legenda": "Mudou o jogo no leilão da Caixa.\n\nAlguns imóveis retomados da Caixa agora podem ser financiados pela linha FGTS/Minha Casa Minha Vida, inclusive com desconto e subsídio, seguindo a IN MCID nº 22/2026.\n\nAntes, quem arrematava financiava no juro comum. Com a taxa do MCMV, a parcela cai bastante. Vale para as faixas 2, 3 e Classe Média, inclusive para quem já mora no imóvel.\n\nSó que nem todo imóvel entra, cara. Ele tem que se enquadrar nas regras do programa, e isso você confere no edital antes de dar lance.\n\nComenta LEILÃO aqui embaixo que eu te mostro como arrematar imóvel de leilão com segurança e sem dor de cabeça.\n\n#leilaodeimoveis #leilaocaixa #minhacasaminhavida",
   "midias": [
     "fila/midia/20261030-1530-feed-caixa-mcmv/01.jpg"
-  ],
-  "status": "erro",
-  "erro": "Instagram POST 17841470362498500/media: 400 {\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"AAjRjyrzNdCamG_SXN-qfiS\"}",
-  "tentativas": 1
+  ]
 }

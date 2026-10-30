@@ -1,11 +1,12 @@
 # Agenda do Instagram
 
-Atualizado em 30/10/2026, 15:07.
+Atualizado em 30/10/2026, 15:36.
 
 ## Na fila
 
 | Quando | Tipo | Aprovado | Status | Primeira linha |
 |---|---|---|---|---|
+| 30/10/2026, 15:30 | FEED | sim | erro: Instagram POST 17841470362498500/media: 400 {"message":"API access blo | Mudou o jogo no leilão da Caixa. |
 | 31/10/2026, 08:00 | CARROSSEL | sim | aguardando | Numa operação em João Pessoa, uma assinatura parecia exigir que eu via |
 | 01/11/2026, 08:00 | CARROSSEL | sim | aguardando | Na mentoria, um aluno perguntou se fazer proposta o obrigaria a compra |
 | 02/11/2026, 08:00 | CARROSSEL | sim | aguardando | Um casal me procurou com cerca de R$ 30 mil para entrar numa operação  |

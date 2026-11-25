@@ -1,6 +1,6 @@
 # Agenda do Instagram
 
-Atualizado em 25/11/2026, 12:33.
+Atualizado em 25/11/2026, 13:47.
 
 ## Na fila
 

@@ -1,6 +1,6 @@
 # Relatório do @souolucasribeiro
 
-Atualizado em 2026-11-26. Seguidores: **31967**.
+Atualizado em 2026-11-26. Seguidores: **31971**.
 
 Score = (comentários + compartilhamentos + salvamentos) por mil contas alcançadas.
 
@@ -8,11 +8,11 @@ Score = (comentários + compartilhamentos + salvamentos) por mil contas alcança
 
 | Data | Tipo | Score | Alcance | Coment. | Compart. | Salvos | Curtidas | Post |
 |---|---|---|---|---|---|---|---|---|
-| 2026-11-07 | REELS | 44 | 341 | 6 | 4 | 5 | 2 | [Apartamento em São Paulo com 20 mil de entrada. Eu te mostro onde achar.](https://www.instagram.com/reel/Dfc5GwWOcKq/) |
-| 2026-11-06 | REELS | 37.5 | 320 | 2 | 5 | 5 | 6 | [Siga @souolucasribeiro](https://www.instagram.com/reel/DfaZ_G1sITh/) |
+| 2026-11-07 | REELS | 46.5 | 344 | 6 | 5 | 5 | 2 | [Apartamento em São Paulo com 20 mil de entrada. Eu te mostro onde achar.](https://www.instagram.com/reel/Dfc5GwWOcKq/) |
+| 2026-11-06 | REELS | 40.4 | 322 | 2 | 6 | 5 | 6 | [Siga @souolucasribeiro](https://www.instagram.com/reel/DfaZ_G1sITh/) |
 | 2026-11-14 | REELS | 37.3 | 1420 | 16 | 19 | 18 | 25 | [Compraria ou não compraria? Leilão de imóveis pra iniciantes.](https://www.instagram.com/reel/Dfu_1coMqFA/) |
-| 2026-11-25 | REELS | 33.3 | 210 | 6 | 1 | 0 | 3 | [Mais de 1.220 imóveis do Santander vão a leilão dia 27.](https://www.instagram.com/reel/DgLZ72-gMET/) |
-| 2026-11-23 | REELS | 29.9 | 335 | 7 | 3 | 0 | 1 | [Até dia 27, a Caixa tem mais de 5 mil imóveis de leilão aceitando financiamento.](https://www.instagram.com/reel/DgGP_XNgsnq/) |
+| 2026-11-25 | REELS | 31.7 | 252 | 6 | 2 | 0 | 3 | [Mais de 1.220 imóveis do Santander vão a leilão dia 27.](https://www.instagram.com/reel/DgLZ72-gMET/) |
+| 2026-11-23 | REELS | 29.7 | 337 | 7 | 3 | 0 | 1 | [Até dia 27, a Caixa tem mais de 5 mil imóveis de leilão aceitando financiamento.](https://www.instagram.com/reel/DgGP_XNgsnq/) |
 
 ## 5 piores
 

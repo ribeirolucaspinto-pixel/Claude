@@ -1,0 +1,54 @@
+TRANSCRIÇÃO REVISADA
+Você quer ganhar dinheiro com o imóvel sem o leão morder? Então presta atenção, porque o novo Imposto de Renda do governo tem uma pegadinha, tá? Ele isentou quem ganha até 5 mil. Se você tem um imóvel alugado, o aluguel soma no seu salário. E aí você pode sair da isenção. Por isso eu não ganho dinheiro com o imóvel só de aluguel. Eu ganho comprando barato no leilão e vendendo. O lucro da venda não entra nessa tabela, tá? Ele é separado. E tem mais. Se eu vendo um imóvel residencial e compro outro residencial em até 180 dias, esse lucro é isento. O patrimônio cresce sem o leão morder o meio. Confere com o seu contador isso aí, cada detalhe. E comenta leilão aqui embaixo se você quer receber o link pra ver como eu faço.
+
+LEGENDA NA TELA (início-fim em s)
+0.11-0.67  VOCÊ QUER GANHAR
+0.67-1.15  DINHEIRO COM O
+1.15-1.74  IMÓVEL SEM O
+1.74-2.41  LEÃO MORDER?
+2.41-3.23  ENTÃO PRESTA ATENÇÃO
+3.23-3.71  PORQUE O NOVO
+3.71-4.30  IMPOSTO DE RENDA
+4.30-4.78  DO GOVERNO TEM
+4.78-5.80  UMA PEGADINHA, TÁ?
+5.80-6.51  ELE ISENTOU QUEM
+6.51-7.64  GANHA ATÉ 5 MIL
+7.64-8.35  SE VOCÊ TEM
+8.35-9.23  UM IMÓVEL ALUGADO
+9.23-9.95  O ALUGUEL SOMA
+9.95-10.77  NO SEU SALÁRIO
+10.77-11.36  E AÍ VOCÊ
+11.36-11.84  PODE SAIR DA
+11.84-12.39  ISENÇÃO
+12.39-12.86  POR ISSO EU
+12.86-13.39  NÃO GANHO DINHEIRO
+13.39-13.79  COM O IMÓVEL
+13.79-14.46  SÓ DE ALUGUEL
+14.46-15.26  EU GANHO COMPRANDO
+15.26-16.04  BARATO NO LEILÃO
+16.04-16.73  E VENDENDO
+16.73-17.32  O LUCRO DA
+17.32-18.06  VENDA NÃO ENTRA
+18.06-18.78  NESSA TABELA, TÁ?
+18.78-19.20  ELE É SEPARADO
+19.20-20.37  E TEM MAIS
+20.37-20.77  SE EU VENDO
+20.77-21.62  UM IMÓVEL RESIDENCIAL
+21.62-22.40  E COMPRO OUTRO
+22.40-23.28  RESIDENCIAL EM ATÉ
+23.28-24.39  180 DIAS
+24.39-24.95  ESSE LUCRO É
+24.95-25.57  ISENTO
+25.57-26.52  O PATRIMÔNIO CRESCE
+26.52-26.93  SEM O LEÃO
+26.93-27.54  MORDER O MEIO
+28.21-28.76  CONFERE COM O
+28.76-29.38  SEU CONTADOR ISSO
+29.38-29.84  AÍ
+29.84-30.37  CADA DETALHE
+30.37-30.96  E COMENTA LEILÃO
+30.96-31.54  AQUI EMBAIXO SE
+31.54-32.02  VOCÊ QUER RECEBER
+32.02-32.41  O LINK PRA
+32.41-32.80  VER COMO EU
+32.80-33.05  FAÇO

@@ -1,0 +1,60 @@
+TRANSCRIÇÃO REVISADA
+Você quer comprar imóvel antes do preço subir? Então presta atenção, porque o Minha Casa Minha Vida do Lula vai mexer no preço dos imóveis. Esse programa era praticamente só da Caixa. Agora o Itaú entrou, o Bradesco e o Santander estão estudando entrar também, E aí você já sabe, né? Mais banco brigando é mais crédito, mais crédito é mais gente comprando casa e mais gente comprando é o preço subindo. Daí sabe o que eu faço? Eu compro antes, no leilão da Caixa e abaixo do valor de mercado. E tem imóvel lá retomado que já pode ser financiado pela linha do Minha Casa Minha Vida, tá? E quando a fila de comprador chegar, o meu imóvel já está comprado. Mas eu sempre confiro edital, matrícula e a conta total antes de dar o lance, tá? Comenta leilão aqui que eu te mando um link explicando como.
+
+LEGENDA NA TELA (início-fim em s)
+0.02-0.78  VOCÊ QUER COMPRAR
+0.78-1.55  IMÓVEL ANTES DO
+1.55-2.30  PREÇO SUBIR?
+2.30-3.15  ENTÃO PRESTA ATENÇÃO
+3.15-3.60  PORQUE O MINHA
+3.60-4.13  CASA MINHA VIDA
+4.13-4.61  DO LULA VAI
+4.61-5.30  MEXER NO PREÇO
+5.30-6.33  DOS IMÓVEIS
+6.33-7.07  ESSE PROGRAMA ERA
+7.07-7.82  PRATICAMENTE SÓ
+7.82-8.36  DA CAIXA
+8.36-9.04  AGORA O ITAÚ
+9.04-9.55  ENTROU
+9.55-10.13  O BRADESCO E
+10.13-10.70  O SANTANDER ESTÃO
+10.70-11.31  ESTUDANDO ENTRAR
+11.31-11.72  TAMBÉM
+11.72-12.21  E AÍ VOCÊ
+12.21-12.95  JÁ SABE, NÉ?
+12.95-13.94  MAIS BANCO BRIGANDO
+13.94-14.76  É MAIS CRÉDITO
+14.76-15.19  MAIS CRÉDITO É
+15.19-15.85  MAIS GENTE COMPRANDO
+15.85-16.69  CASA E MAIS
+16.69-17.24  GENTE COMPRANDO
+17.24-17.56  É O PREÇO
+17.56-18.07  SUBINDO
+18.07-18.57  DAÍ SABE O
+18.57-19.11  QUE EU FAÇO?
+19.11-19.86  EU COMPRO ANTES
+19.86-20.39  NO LEILÃO DA
+20.39-20.95  CAIXA E ABAIXO
+20.95-21.32  DO VALOR DE
+21.32-21.91  MERCADO
+21.91-22.54  E TEM IMÓVEL
+22.54-23.24  LÁ RETOMADO QUE
+23.24-23.84  JÁ PODE SER
+23.84-24.48  FINANCIADO PELA
+24.48-24.94  LINHA DO MINHA
+24.94-26.06  CASA MINHA VIDA, TÁ?
+26.06-26.71  E QUANDO A
+26.71-27.36  FILA DE COMPRADOR
+27.36-28.09  CHEGAR
+28.09-28.55  O MEU IMÓVEL
+28.55-29.42  JÁ ESTÁ COMPRADO
+29.42-29.95  MAS EU SEMPRE
+29.95-30.86  CONFIRO EDITAL
+30.86-31.40  MATRÍCULA E A
+31.40-32.08  CONTA TOTAL ANTES
+32.08-32.30  DE DAR O
+32.30-32.81  LANCE, TÁ?
+32.81-33.56  COMENTA LEILÃO AQUI
+33.56-33.79  QUE EU TE
+33.79-34.14  MANDO UM LINK
+34.14-34.88  EXPLICANDO COMO
